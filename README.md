@@ -4,7 +4,7 @@
 >
 > 以简单范例来展示 spring 在 web 开发中的各种应用。
 >
-> 扩展学习：更多 Java 技术栈知识（JavaSE/JavaEE/Java 库/Java 工具/Java 框架）可以在 [java-stack](https://github.com/dunwu/java-stack) 了解。
+> 扩展学习：更多 Java 技术栈知识（JavaSE/JavaEE/Java 库/Java 工具/Java 框架）可以在 [java-stack](https://github.com/lizhijun-java/java-stack) 了解。
 >
 
 <p align="center">
@@ -21,37 +21,37 @@ spring-notes 参考 Spring 官方的技术划分，将技术内容分为以下�
 
 > Spring 框架的核心技术。如；IOC 依赖注入、AOP、数据绑定等。
 
-**| [CODES](https://github.com/dunwu/spring-notes/tree/master/codes/core) | [DOCS](https://github.com/dunwu/spring-notes/tree/master/docs/spring/core) |**
+**| [CODES](https://github.com/lizhijun-java/spring-notes/tree/master/codes/core) | [DOCS](https://github.com/lizhijun-java/spring-notes/tree/master/docs/spring/core) |**
 
 **Data**
 
 > Spring 在数据库领域的应用。如：JDBC、ORM、事务等。
 
-**| [CODES](https://github.com/dunwu/spring-notes/tree/master/codes/data) | [DOCS](https://github.com/dunwu/spring-notes/tree/master/docs/spring/data) |**
+**| [CODES](https://github.com/lizhijun-java/spring-notes/tree/master/codes/data) | [DOCS](https://github.com/lizhijun-java/spring-notes/tree/master/docs/spring/data) |**
 
 **Web**
 
 > Spring 在 web 领域的应用。如：Spring MVC、WebSocket 等。
 
-**| [CODES](https://github.com/dunwu/spring-notes/tree/master/codes/web) | [DOCS](https://github.com/dunwu/spring-notes/tree/master/docs/spring/web) |**
+**| [CODES](https://github.com/lizhijun-java/spring-notes/tree/master/codes/web) | [DOCS](https://github.com/lizhijun-java/spring-notes/tree/master/docs/spring/web) |**
 
 **Integration**
 
 > Spring 与第三方框架、库集成。如：Cache、Scheduling、JMS、JMX 等。
 
-**| [CODES](https://github.com/dunwu/spring-notes/tree/master/codes/integration) | [DOCS](https://github.com/dunwu/spring-notes/tree/master/docs/spring/integration) |**
+**| [CODES](https://github.com/lizhijun-java/spring-notes/tree/master/codes/integration) | [DOCS](https://github.com/lizhijun-java/spring-notes/tree/master/docs/spring/integration) |**
 
 **Security**
 
 > Spring 在安全领域的应用。如：认证、授权 等。
 
-**| [CODES](https://github.com/dunwu/spring-notes/tree/master/codes/security) |**
+**| [CODES](https://github.com/lizhijun-java/spring-notes/tree/master/codes/security) |**
 
 **Example**
 
 > Spring 实战示例。
 
-**| [CODES](https://github.com/dunwu/spring-notes/tree/master/codes/example) |**
+**| [CODES](https://github.com/lizhijun-java/spring-notes/tree/master/codes/example) |**
 
 ## 说明
 
@@ -99,7 +99,7 @@ $ mvn jetty:run -Dmaven.test.skip=true
 
 > :point_right: [**spring-notes 文档在线阅读**](https://dunwu.gitbooks.io/spring-notes/)
 >
-> 扩展学习：更多 Java 技术栈知识（JavaSE/JavaEE/Java 库/Java 工具/Java 框架）可以在 [java-stack](https://github.com/dunwu/java-stack) 了解。
+> 扩展学习：更多 Java 技术栈知识（JavaSE/JavaEE/Java 库/Java 工具/Java 框架）可以在 [java-stack](https://github.com/lizhijun-java/java-stack) 了解。
 >
 
 ## 规范
